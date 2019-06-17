@@ -23,32 +23,32 @@ PRIMERA PARTE
 
 ORGANIZACIÓN DEL CÓDIGO FUENTE Y OTROS ELEMENTOS.
     Creación de un repositorio, aprobando cambios y trabajando remotamente
-        git init
-        git stats
-        git add
-        git commit
-        git ignore
+        ·git init
+        ·git stats
+        ·git add
+        ·git commit
+        ·git ignore
         
 APROBANDO CAMBIOS.
     Visualizar cambios en el directorio de trabajo y “subirlos” a nuestro repositorio.
-        git status
-        git diff	
-        git add
-        git log
-        git show
+        ·git status
+        ·git diff	
+        ·git add
+        ·git log
+        ·git show
         
 TRABAJO REMOTO.
     Compartir cambios en nuestro repositorio, combinar sus cambios dentro de nuestro repositorio.
-        git push
-        git pull
-        git remote
-        git log
+        ·git push
+        ·git pull
+        ·git remote
+        ·git log
 
 DESHACIENDO CAMBIOS.
     Git proporciona enfoques poderosos y control sobre la gestión de los repositorios y su histórico de cambios. Aprenderemos a sacarle partido
-        git reset hard
-        git revert
-        git checkout
+        ·git reset hard
+        ·git revert
+        ·git checkout
 
 
 SEGUNDA PARTE
@@ -56,33 +56,33 @@ SEGUNDA PARTE
 
 REPARANDO CONFLICTOS. 
     Gestión de conflictos mediante merge y opciones de resolución de conflictos
-        git merge
+        ·git merge
         
 EXPERIMENTANDO CON RAMAS (PARTE I). 
     Crear ramas en nuestro repositorio
-        push ramas
-        git branch
+        ·push ramas
+        ·git branch
         
 ENCONTRANDO ERRORES. 
     Formas de encontrar en qué commit se introdujo un determinado problema
-        git diff con dos commits
-        git blame
+        ·git diff con dos commits
+        ·git blame
         
 CHERRY PICKING. 
     Selección de commits individuales con merges en la rama principal.
-        git cherry-pick
+        ·git cherry-pick
         
 REBASE.
     Reordenación y limpieza del histórico.
-        git rebase
+        ·git rebase
         
 ETIQUETAS. 
     Listado y creación de etiquetas.
-        git tag
+        ·git tag
         
 ESTADOS.
     Moverse entre estados,istado y creación de etiquetas.
-        git stash
+        ·git stash
         
 GIT y DEVOPS. 
     Papel de GIT en relacion a la integración continua y al continuo despliegue.
