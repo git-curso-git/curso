@@ -1,0 +1,88 @@
+* material a utilizar.
+-----------------------
+
+
+* que es git.
+--------------
+
+crear un repositorio.
+consolidar un fichero con una linea con el número 1.
+
+crear un branch (letras)
+
+cambiar al branch letras
+consolidar un fichero con una linea con la letra a.
+
+cambiar al branch master
+editar el fichero añadiendo una linea con el numero 2 y consolidar.
+repetir hasta el 9.
+
+cambiar al branch letras
+editar el fichero añadiendo una linea con la letra b y consolidar.
+repetir hasta la letra j.
+
+git init primerRepositorio
+cd primerRepositorio
+
+echo "1111111111" > fichero_01.txt
+git status
+git add fichero_01.txt
+git commit -m "fichero 01"
+
+
+git branch letras
+git branch
+git checkout letras
+
+echo "aaaaaaaaaa" > fichero_a.txt
+git add fichero_a.txt
+git commit -m "fichero a"
+
+git checkout master
+echo "2222222222" > fichero_02.txt
+git add fichero_02.txt
+git commit -m "fichero 02"
+
+git checkout letras
+echo "bbbbbbbbbb" > fichero_b.txt
+git add fichero_b.txt
+git commit -m "fichero b"
+
+git checkout master
+echo "3333333333" > fichero_03.txt
+git add fichero_03.txt
+git commit -m "fichero 02"
+
+echo "1111111111 segunda linea" >> fichero_01.txt
+git add fichero_01.txt
+git commit -m "fichero 01 con segunda linea"
+
+git branch
+ls
+git checkout letras
+ls
+
+
+gitk --all
+
+git-cola --all
+
+
+
+
+* git log y git show
+---------------------
+
+
+
+
+* git diff
+-----------
+
+Descripcion del formato de la respuesta del comando.
+
+
+
+
+* git remote
+-------------
