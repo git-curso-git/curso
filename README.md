@@ -17,7 +17,7 @@ Tutorial : https://github.com/git/git/blob/master/Documentation/gittutorial.txt
 
 Resumen  : https://github.com/git/git/blob/master/Documentation/giteveryday.txt
 
-Descargas: https://git-scm.com/downloads
+            Descargas: https://git-scm.com/downloads
 
 
 git : https://github.com/git/git
