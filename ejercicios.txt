@@ -73,7 +73,11 @@ git-cola --all
 * git log y git show
 ---------------------
 
+got log --oneline
 
+git show HEAD^  # to see the parent of HEAD
+git show HEAD^^ # to see the grandparent of HEAD
+git show HEAD~4 # to see the great-great grandparent of HEAD
 
 
 * git diff
@@ -86,3 +90,16 @@ Descripcion del formato de la respuesta del comando.
 
 * git remote
 -------------
+
+crear usuarios en gitlab
+
+cada usuario crea un repositorio vacio
+
+desde el repositorio primerRepositorio
+
+git remote rename origin old-origin 
+git remote add origin http://localhost:9080/USUARIO/REPOSITORIO
+git push -u origin --all
+
+
+
