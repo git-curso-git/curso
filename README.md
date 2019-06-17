@@ -2,11 +2,11 @@
 REFERENCIAS
 ------------
     
-    WEB : https://git-scm.com/
+WEB : https://git-scm.com/
 
-    Manual : https://git-scm.com/docs/user-manual.html
+Manual : https://git-scm.com/docs/user-manual.html
 
-    Libro : https://git-scm.com/book
+Libro : https://git-scm.com/book
 
 Quick : https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 
@@ -17,7 +17,7 @@ Tutorial : https://github.com/git/git/blob/master/Documentation/gittutorial.txt
 
 Resumen  : https://github.com/git/git/blob/master/Documentation/giteveryday.txt
 
-            Descargas: https://git-scm.com/downloads
+Descargas: https://git-scm.com/downloads
 
 
 git : https://github.com/git/git
