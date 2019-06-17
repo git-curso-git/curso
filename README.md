@@ -1,11 +1,11 @@
 # curso1
 REFERENCIAS
 ------------
-WEB : https://git-scm.com/
+    WEB : https://git-scm.com/
 
-Manual : https://git-scm.com/docs/user-manual.html
+    Manual : https://git-scm.com/docs/user-manual.html
 
-Libro : https://git-scm.com/book
+    Libro : https://git-scm.com/book
 
 Quick : https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 
