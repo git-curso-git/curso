@@ -22,7 +22,9 @@ PRIMERA PARTE
 ---------------
 
 ORGANIZACIÓN DEL CÓDIGO FUENTE Y OTROS ELEMENTOS.
+
     Creación de un repositorio, aprobando cambios y trabajando remotamente
+    
         ·git init
         ·git stats
         ·git add
@@ -38,14 +40,18 @@ APROBANDO CAMBIOS.
         ·git show
         
 TRABAJO REMOTO.
+
     Compartir cambios en nuestro repositorio, combinar sus cambios dentro de nuestro repositorio.
+    
         ·git push
         ·git pull
         ·git remote
         ·git log
 
 DESHACIENDO CAMBIOS.
-    Git proporciona enfoques poderosos y control sobre la gestión de los repositorios y su histórico de cambios. Aprenderemos a sacarle partido
+
+    Git proporciona enfoques poderosos y control sobre la gestión de los repositorios y su histórico de cambios. Aprenderemos a sacarle partido.
+    
         ·git reset hard
         ·git revert
         ·git checkout
