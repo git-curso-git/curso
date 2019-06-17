@@ -3,10 +3,13 @@ REFERENCIAS
 ------------
 WEB : https://git-scm.com/
 
-    Manual : https://git-scm.com/docs/user-manual.html
-    Libro : https://git-scm.com/book
-    Quick : https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
-    Visual : http://ndpsoftware.com/git-cheatsheet.html
+Manual : https://git-scm.com/docs/user-manual.html
+
+Libro : https://git-scm.com/book
+
+Quick : https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+
+Visual : http://ndpsoftware.com/git-cheatsheet.html
 
 
 Tutorial : https://github.com/git/git/blob/master/Documentation/gittutorial.txt
