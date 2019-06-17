@@ -32,7 +32,9 @@ ORGANIZACIÓN DEL CÓDIGO FUENTE Y OTROS ELEMENTOS.
         ·git ignore
         
 APROBANDO CAMBIOS.
+
     Visualizar cambios en el directorio de trabajo y “subirlos” a nuestro repositorio.
+    
         ·git status
         ·git diff	
         ·git add
@@ -61,39 +63,55 @@ SEGUNDA PARTE
 --------------
 
 REPARANDO CONFLICTOS. 
+
     Gestión de conflictos mediante merge y opciones de resolución de conflictos
+    
         ·git merge
         
 EXPERIMENTANDO CON RAMAS (PARTE I). 
-    Crear ramas en nuestro repositorio
+
+    Crear ramas en nuestro repositorio.
+    
         ·push ramas
         ·git branch
         
 ENCONTRANDO ERRORES. 
-    Formas de encontrar en qué commit se introdujo un determinado problema
+
+    Formas de encontrar en qué commit se introdujo un determinado problema.
+    
         ·git diff con dos commits
         ·git blame
         
 CHERRY PICKING. 
+
     Selección de commits individuales con merges en la rama principal.
+    
         ·git cherry-pick
         
 REBASE.
+
     Reordenación y limpieza del histórico.
+    
         ·git rebase
         
 ETIQUETAS. 
+
     Listado y creación de etiquetas.
+    
         ·git tag
         
 ESTADOS.
+
     Moverse entre estados,istado y creación de etiquetas.
+    
         ·git stash
         
 GIT y DEVOPS. 
+
     Papel de GIT en relacion a la integración continua y al continuo despliegue.
 
-CONTROL DE VERSIONES 30’
+CONTROL DE VERSIONES
+
     El objetivo del módulo es definir el papel del control de versiones en relación con la integración continua, así como mostrar algunas estrategias y patrones para la gestión de versiones en relación con la entrega continua.
 
     ·BRANCHES, STREAMS, E INTEGRACIÓN CONTINUA
